@@ -11,6 +11,10 @@
 - [CSS Cheat Sheet: Everything You Need to Know in One Place](https://dev.to/tenelabs/css-cheat-sheet-everything-you-need-to-know-in-one-place-12no)
 <!-- BLOG-POST-LIST:END -->
 
+## Skills
+
+![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,css,express,git,github,go,html,js,md,materialui,mongodb,mysql,nodejs,npm,pnpm,postman,react,regex,tailwind,ts,vite,vitest,vscode,yarn,)
+
 ## Stats
 
 <div align="center">
