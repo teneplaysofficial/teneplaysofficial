@@ -4,11 +4,11 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [package.json](https://dev.to/tenelabs/packagejson-4e80)
 - [HTTP Status Codes](https://dev.to/tenelabs/http-status-codes-2l3n)
 - [Essential Linux Commands List](https://dev.to/tenelabs/essential-linux-commands-list-2gl9)
 - [npm vs npx: Understanding the Difference](https://dev.to/tenelabs/npm-vs-npx-understanding-the-difference-1jjl)
 - [CSS Cheat Sheet: Everything You Need to Know in One Place](https://dev.to/tenelabs/css-cheat-sheet-everything-you-need-to-know-in-one-place-12no)
-- [LocalStorage vs IndexedDB: JavaScript Guide &lpar;Storage, Limits &amp; Best Practices&rpar;](https://dev.to/tenelabs/localstorage-vs-indexeddb-javascript-guide-storage-limits-best-practices-5g4l)
 <!-- BLOG-POST-LIST:END -->
 
 <div>
