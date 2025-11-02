@@ -11,6 +11,18 @@
 - [CSS Cheat Sheet: Everything You Need to Know in One Place](https://dev.to/tenelabs/css-cheat-sheet-everything-you-need-to-know-in-one-place-12no)
 <!-- BLOG-POST-LIST:END -->
 
+## Stats
+
+<div align="center">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=teneplaysofficial&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+    <!-- langs_count=20 upto 20 -->
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teneplaysofficial&layout=compact&theme=radical&langs_count=8&card_width=400" alt="Top Languages" />
+    <!-- <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=teneplaysofficial&theme=radical&hide_border=false" alt="GitHub Streak" /> -->
+    <!-- <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=teneplaysofficial&theme=radical&hide_border=false" alt="GitHub Streak" /> -->
+    <!-- <img src="https://github-profile-trophy.vercel.app/?username=teneplaysofficial&theme=radical&no-frame=true&margin-w=10&column=7" alt="GitHub Trophies" /> -->
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=teneplaysofficial&bg_color=1a1b27&color=80ffea&line=ff7575&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
 <div>
     <img src="https://cultofthepartyparrot.com/guests/hd/vibepartycat.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/discoparrot.gif" width="30" height="30"/>
