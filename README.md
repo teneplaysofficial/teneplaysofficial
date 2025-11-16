@@ -4,11 +4,11 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding err, stdout, and stderr in Node.js](https://dev.to/tenelabs/understanding-err-stdout-and-stderr-in-nodejs-19em)
 - [Node.js exec vs execSync](https://dev.to/tenelabs/nodejs-exec-vs-execsync-56mo)
 - [package.json](https://dev.to/tenelabs/packagejson-4e80)
 - [HTTP Status Codes](https://dev.to/tenelabs/http-status-codes-2l3n)
 - [Essential Linux Commands List](https://dev.to/tenelabs/essential-linux-commands-list-2gl9)
-- [npm vs npx: Understanding the Difference](https://dev.to/tenelabs/npm-vs-npx-understanding-the-difference-1jjl)
 <!-- BLOG-POST-LIST:END -->
 
 ## Skills
