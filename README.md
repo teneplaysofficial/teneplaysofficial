@@ -4,11 +4,11 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering console in JavaScript](https://dev.to/tenelabs/mastering-console-in-javascript-5h63)
 - [Understanding err, stdout, and stderr in Node.js](https://dev.to/tenelabs/understanding-err-stdout-and-stderr-in-nodejs-19em)
 - [Node.js exec vs execSync](https://dev.to/tenelabs/nodejs-exec-vs-execsync-56mo)
 - [package.json](https://dev.to/tenelabs/packagejson-4e80)
 - [HTTP Status Codes](https://dev.to/tenelabs/http-status-codes-2l3n)
-- [Essential Linux Commands List](https://dev.to/tenelabs/essential-linux-commands-list-2gl9)
 <!-- BLOG-POST-LIST:END -->
 
 ## Skills
