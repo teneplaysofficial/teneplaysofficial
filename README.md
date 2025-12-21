@@ -5,11 +5,11 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ultimate React Hooks Guide](https://dev.to/tenelabs/ultimate-react-hooks-guide-15e1)
 - [React Hooks Overview](https://dev.to/tenelabs/react-hooks-overview-588a)
 - [Introduction to React](https://dev.to/tenelabs/introduction-to-react-1k7e)
 - [Mastering Conventional Commits](https://dev.to/tenelabs/mastering-conventional-commits-2ao7)
 - [Mastering console in JavaScript](https://dev.to/tenelabs/mastering-console-in-javascript-5h63)
-- [Understanding err, stdout, and stderr in Node.js](https://dev.to/tenelabs/understanding-err-stdout-and-stderr-in-nodejs-19em)
 <!-- BLOG-POST-LIST:END -->
 
 ## Skills
