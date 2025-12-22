@@ -1,8 +1,15 @@
 <div align="center">
+  <picture>
+    <source media="(min-width: 781px)" srcset="./party.gif">
+    <img src="./transparent.png" width="60" height="60" alt="" />
+  </picture>
 
-![](./party.gif)
-![welcome to my github profile](./welcome-header.gif)
-![](./party.gif)
+  <img src="./welcome-header.gif" width="540" alt="Welcome" />
+
+  <picture>
+    <source media="(min-width: 781px)" srcset="./party.gif">
+    <img src="./transparent.png" width="60" height="60" alt="" />
+  </picture>
 
 [![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=TenEplaysOfficial)](https://tene.vercel.app)
 [![JSR Scope](https://jsr.io/badges/@tene)](https://jsr.io/@tene)
