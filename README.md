@@ -1,6 +1,14 @@
+<div align="center">
+
+![](./party.gif)
+![welcome to my github profile](./welcome-header.gif)
+![](./party.gif)
+
 [![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=TenEplaysOfficial)](https://tene.vercel.app)
 [![JSR Scope](https://jsr.io/badges/@tene)](https://jsr.io/@tene)
 [![NPM Downloads](https://img.shields.io/npm-stat/dy/tenedev?style=flat&logo=npm&label=NPM)](https://www.npmjs.com/~tenedev)
+
+</div>
 
 ## Blog posts
 
