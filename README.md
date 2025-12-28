@@ -20,11 +20,11 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Setting Up a React Project with Vite](https://dev.to/tenelabs/setting-up-a-react-project-with-vite-17af)
 - [Ultimate React Hooks Guide](https://dev.to/tenelabs/ultimate-react-hooks-guide-15e1)
 - [React Hooks Overview](https://dev.to/tenelabs/react-hooks-overview-588a)
 - [Introduction to React](https://dev.to/tenelabs/introduction-to-react-1k7e)
 - [Mastering Conventional Commits](https://dev.to/tenelabs/mastering-conventional-commits-2ao7)
-- [Mastering console in JavaScript](https://dev.to/tenelabs/mastering-console-in-javascript-5h63)
 <!-- BLOG-POST-LIST:END -->
 
 ## Skills
