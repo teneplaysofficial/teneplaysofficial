@@ -20,11 +20,11 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Components in React: Functional vs. Class Components](https://dev.to/tenelabs/components-in-react-functional-vs-class-components-4laj)
 - [[Boost]](https://dev.to/tene/-38kj)
 - [JSX in React](https://dev.to/tenelabs/jsx-in-react-16dl)
 - [Setting Up a React Project with Vite](https://dev.to/tenelabs/setting-up-a-react-project-with-vite-17af)
 - [Ultimate React Hooks Guide](https://dev.to/tenelabs/ultimate-react-hooks-guide-15e1)
-- [React Hooks Overview](https://dev.to/tenelabs/react-hooks-overview-588a)
 <!-- BLOG-POST-LIST:END -->
 
 ## Skills
