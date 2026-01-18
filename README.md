@@ -20,11 +20,11 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Optimize React Rendering with Lazy Loading and Code Splitting](https://dev.to/tenelabs/optimize-react-rendering-with-lazy-loading-and-code-splitting-33i3)
+- [Scroll Restoration in React Router](https://dev.to/tene/scroll-restoration-in-react-router-4gnm)
 - [Props in React: Passing Data Between Components](https://dev.to/tenelabs/props-in-react-passing-data-between-components-2nld)
 - [Components in React: Functional vs. Class Components](https://dev.to/tenelabs/components-in-react-functional-vs-class-components-4laj)
 - [JSX in React](https://dev.to/tenelabs/jsx-in-react-16dl)
-- [Setting Up a React Project with Vite](https://dev.to/tenelabs/setting-up-a-react-project-with-vite-17af)
-- [Ultimate React Hooks Guide](https://dev.to/tenelabs/ultimate-react-hooks-guide-15e1)
 <!-- BLOG-POST-LIST:END -->
 
 ## Skills
