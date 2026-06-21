@@ -6,11 +6,11 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vercel design.dark.md](https://dev.to/tene/vercel-designdarkmd-53l)
 - [Vercel design.md](https://dev.to/tene/vercel-designmd-4nbl)
 - [Introduction to Git](https://dev.to/tene/introduction-to-git-2d0j)
 - [Unpacking Manifest V3: Chrome’s Big Extension Shakeup! 🛠️](https://dev.to/tene/unpacking-manifest-v3-chromes-big-extension-shakeup-15n5)
 - [Zylog - A Simple Yet Powerful Logger for Node.js](https://dev.to/tene/zylog-a-simple-yet-powerful-logger-for-nodejs-4boh)
-- [Mastering Conditional Rendering in React](https://dev.to/tenelabs/mastering-conditional-rendering-in-react-48p3)
 <!-- BLOG-POST-LIST:END -->
 
 ## Skills
