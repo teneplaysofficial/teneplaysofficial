@@ -1,5 +1,5 @@
-[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?logo=github)](https://github.com/sponsors/teneplaysofficial)
 <!--
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?logo=github)](https://github.com/sponsors/teneplaysofficial)
 [![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=TenEplaysOfficial)](https://tene.vercel.app)
 [![JSR Scope](https://jsr.io/badges/@tene)](https://jsr.io/@tene)
 [![NPM Downloads](https://img.shields.io/npm-stat/dy/tenedev?style=flat&logo=npm&label=NPM)](https://www.npmjs.com/~tenedev)
